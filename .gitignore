@@ -1,0 +1,12 @@
+# Dependências e Arquivos Temporários
+/uploads/*
+!/uploads/.gitkeep
+
+# Configurações locais do XAMPP / IDE
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Configurações de ambiente ou banco local se houver
+conexao_local.php
